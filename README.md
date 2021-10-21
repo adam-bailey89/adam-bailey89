@@ -2,7 +2,7 @@
 
 ## Junior Software Developer at CPS Cards
 
-- 🔭 I’m currently working on helping design and implement automation software using C# and .NET
+- 🔭 I’m currently helping design and implement automation software using C# and .NET
 - 🌱 I’m currently learning Javascript, Python, React, Redux and C#
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my education and work history
