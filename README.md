@@ -2,8 +2,8 @@
 
 ## Junior Software Developer at CPS Cards
 
-- 🔭 I’m currently helping design and implement automation software using C# and .NET
-- 🌱 I’m currently learning Javascript, Python, React, Redux and C#
+- 🔭 I’m currently designing and implementing automation software using C# and .NET
+- 🌱 I’m currently working with Typescript, React, Redux and C#
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about my education and work history
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adam-bailey-448333210/)
