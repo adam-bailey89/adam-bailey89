@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74081636/121249625-c90f9280-c872-11eb-8717-9f0f53cd040b.png" alt="banner" width="100%"/>
 
-## Junior Software Developer at CPS Cards
+## Software Developer at CPS Cards
 
 - 🔭 I’m currently designing and implementing automation software using C# and .NET
 - 🌱 I’m currently working with Typescript, React, Redux and C#
